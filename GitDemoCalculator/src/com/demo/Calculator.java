@@ -16,17 +16,17 @@ public class Calculator {
 		System.out.println("The sum is: "+(n1+n2));
 	}
 	
-	//creating method for addition
+	//creating method for subtraction
     public static void subtraction(float n1, float n2) {
 		System.out.println("The sum is: "+(n1-n2));
 		}
 		
-    //creating method for addition
+    //creating method for multiplication
 	public static void multiplication(float n1, float n2) {
 		System.out.println("The sum is: "+(n1*n2));
 		}
 		
-	 //creating method for addition
+	 //creating method division
 	public static void division(float n1, float n2) {
 		System.out.println("The sum is: "+(n1/n2));
 		}
