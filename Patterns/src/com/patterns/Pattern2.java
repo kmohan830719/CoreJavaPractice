@@ -8,7 +8,7 @@
 package com.patterns;
 
 //declaring the class
-public class pattern2 {
+public class Pattern2 {
 
 	//main method
 	public static void main(String[] args) {
