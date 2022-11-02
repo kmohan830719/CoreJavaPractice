@@ -44,7 +44,7 @@ public class PalindromeNum {
 		//taking the user unput
 		int originalNum=sc.nextInt();
 		
-		//calling the method to check palindroe
+		//calling the method to check palindrome
 		checkPalindrome(originalNum);
 		
 		sc.close();
